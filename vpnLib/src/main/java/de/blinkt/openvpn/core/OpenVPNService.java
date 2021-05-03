@@ -647,7 +647,7 @@ public class OpenVPNService extends VpnService implements StateListener, Callbac
             }).start();
 
         }else{
-            Log.d("VPNex" , "null timeout");
+            Log.d("XXVPN" , "null timeout");
         }
 
 
